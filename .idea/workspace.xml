@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a13915c-2d51-4c3e-ac58-9a2eb187b6ec" name="Changes" comment="New print function changes">
-      <change afterPath="$PROJECT_DIR$/src/ex_100824/Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_100824/Lab004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_100824/Lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_100824/Lab006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_100824/Lab007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Excercise/Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Excercise/Task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_130824/Lab008_UserInput.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_130824/Lab009Calculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,14 +40,23 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Lab001.executor": "Run",
+    "Python.Lab0010Table.executor": "Run",
     "Python.Lab003.executor": "Run",
     "Python.Lab004.executor": "Run",
     "Python.Lab005.executor": "Run",
     "Python.Lab006.executor": "Run",
     "Python.Lab007.executor": "Run",
+    "Python.Lab008_UserInput.executor": "Run",
+    "Python.Lab009Calculator.executor": "Run",
+    "Python.Task2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PythonTraining\Pyatb4xLearning\src\Excercise" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

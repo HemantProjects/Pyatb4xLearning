@@ -1,0 +1,12 @@
+value = float(input("Enter the number for its table : "))
+
+print(f"{value} * 1 = {value * 1}")
+print(f"{value} * 2 = {value * 2}")
+print(f"{value} * 3 = {value * 3}")
+print(f"{value} * 4 = {value * 4}")
+print(f"{value} * 5 = {value * 5}")
+print(f"{value} * 6 = {value * 6}")
+print(f"{value} * 7 = {value * 7}")
+print(f"{value} * 8 = {value * 8}")
+print(f"{value} * 9 = {value * 9}")
+print(f"{value} * 10 = {value * 10}")
